@@ -1,0 +1,316 @@
+{
+  "data": {
+    "site": {"title":"9Tailors","description":"Confidence Suits Me","company":"9Tailors, LLC","address":"132 Lincoln St, 1L, Boston, MA 02111","address_map_url":"https://goo.gl/maps/4vQfW7dXeFH2","email":"hello@9tailors.com","phone":"617-286-6135","hours":{"mon":"10 am - 5 pm","tue":"10 am - 7 pm","wed":"10 am - 7 pm","thu":"10 am - 7 pm","fri":"10 am - 7 pm","sat":"10 am - 5 pm","sun":"by appt only"},"social_urls":{"facebook":"https://www.facebook.com/9tailors","instagram":"https://www.instagram.com/9tailors/","pinterest":"https://www.pinterest.com/9tailors/"}},
+    "garment_attributes": {"products":["dress shirt","2-piece suit","3-piece suit","suit jacket","suit pants","2-piece tuxedo","3-piece tuxedo","tuxedo jacket","tuxedo pants","tuxedo shirt","sportcoat","blazer","vest"],"occassions":["formal","wedding","business","casual"],"seasons":["fall","winter","spring","summer"],"materials":["wool","bamboo","cotton","cotton-polyester","velvet"],"weaves":["tweed","seersucker","herringbone","houndstooth"],"colors":["black","dark grey","grey","light grey","white","brown","light brown","khaki","red","maroon","midnight blue","navy blue","royal blue","light blue","green","yellow"],"patterns":["solid","striped","windowpane","checked","gingham","plaid"]}
+  },
+  "collections": {
+    "events": [
+{
+"path": "_events/10th-anniversary.md", 
+"slug": "10th-anniversary", 
+"title": "10th Anniversarys", 
+"start_date": 1538087400000, 
+"end_date": 1538098200000, 
+"location": "9Tailors, 132 Lincoln St, 1L, Boston, MA", 
+"event_rsvp_url": "", 
+"description": "This is our 10th Anniversary. Come celebrate.", 
+"image_src": "", 
+"event_recap": "Some cool stuff happened at the event. Here is some **markdown** syntax.\n\nLet's try a [link](http://www.google.com \"Google\") to google.\n\n* first bullet\n* second bullet", 
+"event_photo_srcs": ["/v1553702846/shirts/20160913-9-tailors-0086.jpg","/v1553710484/jackets/20151112-9tailors-0137.jpg","/v1553710668/shirts/20151027-twellman-0548.jpg","/v1553710830/jackets/20141024-9-tailors-0309.jpg"]
+}, 
+{
+"path": "_events/another-future-event.md", 
+"slug": "another-future-event", 
+"title": "Another Future Event", 
+"start_date": 1567724400000, 
+"end_date": 1567731600000, 
+"location": "9Tailors, 132 Lincoln St, 1L, Boston, MA", 
+"event_rsvp_url": "", 
+"description": "This is another upcoming event so I can compare dates.\n\nHere's **some** markup", 
+"image_src": "", 
+"event_recap": "", 
+"event_photo_srcs": []
+}, 
+{
+"path": "_events/general-knot-pop-up-sale.md", 
+"slug": "general-knot-pop-up-sale", 
+"title": "General Knot Pop Up Sale", 
+"start_date": 1553954400000, 
+"end_date": 1553968800000, 
+"location": "9Tailors, 132 Lincoln St, 1L, Boston, MA", 
+"event_rsvp_url": "", 
+"description": "Come check out General Knot at the 9Tailors studio for some great ties.", 
+"image_src": "/v1553205251/general_knot_2019_caeomh.jpg", 
+"event_recap": "", 
+"event_photo_srcs": []
+}, 
+{
+"path": "_events/some-future-open-house-event.md", 
+"slug": "some-future-open-house-event", 
+"title": "Some Future Open House Event- austin made a change", 
+"start_date": 1564698600000, 
+"end_date": 1564707600000, 
+"location": "9Tailors, 132 Lincoln St, 1L, Boston, MA", 
+"event_rsvp_url": "", 
+"description": "Come hang out with us", 
+"image_src": "/v1551993091/unnamed_16_qcvitm.jpg", 
+"event_recap": "", 
+"event_photo_srcs": []
+}
+],
+    "lookbooks": [
+{
+"path": "_lookbooks/fall-collection.md", 
+"slug": "fall-collection", 
+"title": "Fall Collection", 
+"date": 1535774400000, 
+"description": "This is the fall collection for 2018", 
+"image_src": "", 
+"lookbook_item_paths": ["_lookbook_items/loungin-in-a-lounge-jacket.md","_lookbook_items/staying-cool-in-the-summer.md","_lookbook_items/fall-in-love-with-tweed.md"]
+}
+],
+    "lookbook_items": [
+{
+"path": "_lookbook_items/loungin-in-a-lounge-jacket.md", 
+"slug": "loungin-in-a-lounge-jacket", 
+"title": "Loungin' in a Lounge Jacket", 
+"date": 1551416400000, 
+"photographer_path": "_sources/photographers/channing-johnson.md", 
+"model_credits": "Some Guy", 
+"image_urls": ["/v1541098592/_DSC8305_a8ktzi.jpg","/v1543344661/_DSC8311_cclfft.jpg"], 
+"description": "You don't have to smoke to lounge in a smoking jacket. ", 
+"products": [{"product":"tuxedo jacket","occassions":["casual","formal"],"seasons":["winter","fall"],"materials":["velvet"],"colors":["maroon","black"],"patterns":["solid"]},{"product":"tuxedo pants","occassions":["wedding","formal"],"materials":["wool"],"colors":["black"],"patterns":["solid"]},{"product":"tuxedo shirt","occassions":["wedding","formal"],"materials":["cotton"],"colors":["white"],"patterns":["solid"]}]
+}, 
+{
+"path": "_lookbook_items/staying-cool-in-the-summer.md", 
+"slug": "staying-cool-in-the-summer", 
+"title": "Staying Cool in the Summer", 
+"date": 1552449600000, 
+"photographer_path": "_sources/photographers/channing-johnson.md", 
+"model_credits": "Bob Jones", 
+"image_urls": ["/v1424534222/20120327-9tailors-0620_dj2hkc.jpg","/v1424534308/20120327-9tailors-0650_qhlluk.jpg","/v1424534318/20120327-9tailors-0646_upyed4.jpg","/v1424534514/20120327-9tailors-0693_tjv8kc.jpg","/v1424534631/20120327-9tailors-0971_msqjez.jpg"], 
+"description": "Enjoy the summer weather in a light blue sport coat. ", 
+"products": [{"product":"sportcoat","occassions":["casual"],"seasons":["summer","spring"],"materials":["wool"],"colors":["royal blue"],"patterns":["solid"]},{"product":"dress shirt","occassions":["casual","business","wedding","formal"],"seasons":["summer","spring","winter","fall"],"materials":["cotton"],"colors":["white"],"patterns":["solid"]}]
+}, 
+{
+"path": "_lookbook_items/fall-in-love-with-tweed.md", 
+"slug": "fall-in-love-with-tweed", 
+"title": "Fall in Love with Tweed", 
+"date": 1559448000000, 
+"photographer_path": "_sources/photographers/channing-johnson.md", 
+"model_credits": "Greg Jones", 
+"image_urls": ["/v1507218356/20141024-9-tailors-0632_mwlgjv.jpg","/v1507219360/20141024-9-tailors-0695_n7gm1y.jpg","/v1507221356/20141024-9-tailors-0632_bvsplk.jpg"], 
+"description": "A light tweed jacket is can be dressed up or down and is an essential for any closet.", 
+"products": [{"product":"blazer","occassions":["casual"],"seasons":["fall","spring"],"materials":["wool"],"colors":["brown"],"patterns":["solid"]}]
+}
+],
+    "awards": [
+{
+"path": "_awards/best-of-wedding-2012.md", 
+"slug": "best-of-wedding-2012", 
+"title": "Best of Weddings - 2012", 
+"source_path": "_sources/websites/the-knot.md", 
+"date": 1330578000000, 
+"link_url": "https://www.theknot.com/marketplace/9tailors-boston-ma-449981", 
+"image_src": "/v1553800469/press/the-knot-2012.png"
+}, 
+{
+"path": "_awards/best-of-wedding-2013.md", 
+"slug": "best-of-wedding-2013", 
+"title": "Best of Weddings - 2013", 
+"source_path": "_sources/websites/the-knot.md", 
+"date": 1362114000000, 
+"link_url": "https://www.theknot.com/marketplace/9tailors-boston-ma-449981", 
+"image_src": "/v1553800469/press/the-knot-2013.png"
+}, 
+{
+"path": "_awards/best-of-wedding-2014.md", 
+"slug": "best-of-wedding-2014", 
+"title": "Best of Weddings - 2014", 
+"source_path": "_sources/websites/the-knot.md", 
+"date": 1393650000000, 
+"link_url": "https://www.theknot.com/marketplace/9tailors-boston-ma-449981", 
+"image_src": "/v1553800469/press/the-knot-2014.png"
+}, 
+{
+"path": "_awards/best-of-wedding-2016.md", 
+"slug": "best-of-wedding-2016", 
+"title": "Best of Weddings - 2016", 
+"source_path": "_sources/websites/the-knot.md", 
+"date": 1456808400000, 
+"link_url": "https://www.theknot.com/marketplace/9tailors-boston-ma-449981", 
+"image_src": "/v1553800469/press/the-knot-2016.png"
+}, 
+{
+"path": "_awards/bostons-best-mens-suits-2016.md", 
+"slug": "bostons-best-mens-suits-2016", 
+"title": "Boston's Best Men's Suits - 2016", 
+"source_path": "_sources/websites/the-improper-bostonian.md", 
+"date": 1456808400000, 
+"link_url": "https://www.improper.com/bostons-best/2016/fashion/mens-suits/9tailors-2/", 
+"image_src": "/v1553803178/press/improper-2016.png"
+}, 
+{
+"path": "_awards/bostons-best-tuxedos-2015.md", 
+"slug": "bostons-best-tuxedos-2015", 
+"title": "Boston's Tuxedos - 2015", 
+"source_path": "_sources/websites/the-improper-bostonian.md", 
+"date": 1456808400000, 
+"link_url": "https://www.improper.com/bostons-best/2015/weddings/tuxedos/9tailors/", 
+"image_src": "/v1553803103/press/improper-2015.jpg"
+}, 
+{
+"path": "_awards/bostons-best-tuxedos-2017.md", 
+"slug": "bostons-best-tuxedos-2017", 
+"title": "Boston's Best Tuxedos - 2017", 
+"source_path": "_sources/websites/the-improper-bostonian.md", 
+"date": 1488344400000, 
+"link_url": "https://www.improper.com/bostons-best/2017/weddings/tuxedos/9tailors-3/", 
+"image_src": "/v1553803178/press/improper-2017.png"
+}, 
+{
+"path": "_awards/2018-best-menswear-weddings.md", 
+"slug": "2018-best-menswear-weddings", 
+"title": "2018 Best Menswear, Weddings", 
+"source_path": "_sources/websites/boston-magazine.md", 
+"date": 1519880400000, 
+"link_url": "https://www.bostonmagazine.com/best-of-boston/2018/9tailors/", 
+"image_src": "/v1548706850/press/bostonmag_best-of-boston-2018.png"
+}, 
+{
+"path": "_awards/best-of-weddings-hall-of-fame.md", 
+"slug": "best-of-weddings-hall-of-fame", 
+"title": "Best of Weddings - Hall of Fame", 
+"source_path": "_sources/websites/the-knot.md", 
+"date": 1519880400000, 
+"link_url": "https://www.theknot.com/marketplace/9tailors-boston-ma-449981", 
+"image_src": "/v1553800469/press/the-knot-hof.png"
+}, 
+{
+"path": "_awards/best-of-wedding-2019.md", 
+"slug": "best-of-wedding-2019", 
+"title": "Best of Weddings - 2019", 
+"source_path": "_sources/websites/the-knot.md", 
+"date": 1551416400000, 
+"link_url": "https://www.theknot.com/marketplace/9tailors-boston-ma-449981", 
+"image_src": "/v1553800469/press/the-knot-2019.png"
+}
+],
+    "press": [
+{
+"path": "_press/2018-best-menswear-weddings.md", 
+"slug": "2018-best-menswear-weddings", 
+"title": "2018 Best Menswear, Weddings", 
+"source_path": "_sources/websites/boston-magazine.md", 
+"link_url": "https://www.bostonmagazine.com/best-of-boston/2018/9tailors/", 
+"date": 1529553600000, 
+"excerpt": "Make no mistake, fellas: Your strut down the aisle is just as important as any bride's. At 9Tailors, custom-suiting gurus will help you create an ensemble worthy of your big moment, walking you through myriad design options to make sure your getup matches your style and your shindig."
+}, 
+{
+"path": "_press/suit-up.md", 
+"slug": "suit-up", 
+"title": "Suit Up", 
+"source_path": "_sources/websites/the-improper-bostonian.md", 
+"link_url": "https://www.improper.com/life-style/three-cheers-for-the-bride/", 
+"date": 1540526400000, 
+"excerpt": "At 9Tailors, brides can expect the same meticulous approach to bespoke suiting that grooms have come to love. As owner Samantha Shih puts it, \"A good tailor should have the creativity to solve your fashion problems, but be pragmatic enough to know what's possible.\""
+}, 
+{
+"path": "_press/well-suited-samantha-shih-finds-her-niche-in-the-leather-district.md", 
+"slug": "well-suited-samantha-shih-finds-her-niche-in-the-leather-district", 
+"title": "Well-suited: Samantha Shih finds her niche in the Leather District", 
+"source_path": "_sources/websites/boston-business-journal.md", 
+"link_url": "https://www.bizjournals.com/boston/news/2018/12/06/well-suited-samantha-shih-finds-her-niche-in-the.html", 
+"date": 1544072400000, 
+"excerpt": "Her business, 9Tailors LLC, has morphed into a bespoke tailor, with patterns measured meticulously and clothes made from scratch."
+}
+],
+    "sources": [
+{
+"path": "_sources/websites/boston-magazine.md", 
+"slug": "boston-magazine", 
+"title": "Boston Magazine", 
+"link_url": "https://www.bostonmagazine.com/", 
+"image_url": "/v1553798975/press/boston-magazine.png"
+}, 
+{
+"path": "_sources/websites/the-improper-bostonian.md", 
+"slug": "the-improper-bostonian", 
+"title": "The Improper Bostonian", 
+"link_url": "https://www.improper.com/", 
+"image_url": "/v1553719029/press/improper-bostonian.png"
+}, 
+{
+"path": "_sources/websites/boston-business-journal.md", 
+"slug": "boston-business-journal", 
+"title": "Boston Business Journal", 
+"link_url": "https://www.bizjournals.com/boston/", 
+"image_url": "/v1553719029/press/boston-business-journal.jpg"
+}, 
+{
+"path": "_sources/websites/the-knot.md", 
+"slug": "the-knot", 
+"title": "The Knot", 
+"link_url": "https://www.theknot.com/", 
+"image_url": "/v1553886163/cms/the-knot.png"
+}, 
+{
+"path": "_sources/photographers/channing-johnson.md", 
+"slug": "channing-johnson", 
+"title": "Channing Johnson", 
+"link_url": "http://www.channingjohnson.com/", 
+"image_url": "/v1553893001/cms/channing-johnson-logo.jpg"
+}
+],
+    "team": [
+{
+"path": "_team/jeff-lahens.md", 
+"slug": "jeff-lahens", 
+"title": "Jeff Lahens", 
+"job_title": "Chief Marketing Officer/People & Culture", 
+"blurb": "I like to wear clothes", 
+"image_src": "/v1544035768/team/9-Tailors-Nicole-Chan-Photography-Boston-Portraits-Headshots016_lmhwq9.jpg"
+}, 
+{
+"path": "_team/kyle-undag.md", 
+"slug": "kyle-undag", 
+"title": "Kyle Undag", 
+"job_title": "Some Title", 
+"blurb": "Dolor tempor magna aliquip dolore. Reprehenderit proident officia.", 
+"image_src": "/v1544036561/team/9-Tailors-Nicole-Chan-Photography-Boston-Portraits-Headshots014_k11csl.jpg"
+}, 
+{
+"path": "_team/barbara-santos.md", 
+"slug": "barbara-santos", 
+"title": "Barbara Santos", 
+"job_title": "Some Title", 
+"blurb": "Dolor tempor magna aliquip dolore. Reprehenderit proident officia.", 
+"image_src": "/v1544036260/team/9-Tailors-Nicole-Chan-Photography-Boston-Portraits-Headshots015_cdr0np.jpg"
+}, 
+{
+"path": "_team/daryn-dupre.md", 
+"slug": "daryn-dupre", 
+"title": "Daryn Dupre", 
+"job_title": "Some Title", 
+"blurb": "Dolor tempor magna aliquip dolore. Reprehenderit proident officia.", 
+"image_src": "/v1544035797/team/9-Tailors-Nicole-Chan-Photography-Boston-Portraits-Headshots011_re0mbf.jpg"
+}, 
+{
+"path": "_team/stephanie-munoz.md", 
+"slug": "stephanie-munoz", 
+"title": "Stephanie Munoz", 
+"job_title": "Some Title", 
+"blurb": "Dolor tempor magna aliquip dolore. Reprehenderit proident officia.", 
+"image_src": "/v1544035784/team/9-Tailors-Nicole-Chan-Photography-Boston-Portraits-Headshots017_nhe3ro.jpg"
+}, 
+{
+"path": "_team/samantha-shih.md", 
+"slug": "samantha-shih", 
+"title": "Samantha Shih", 
+"job_title": "Owner/Founder", 
+"blurb": "Something goes here.", 
+"image_src": "/v1553716923/team/sam_headshot.jpg"
+}
+]
+  }
+}
