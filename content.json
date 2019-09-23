@@ -1,0 +1,693 @@
+{
+  "data": {
+    "site": {"title":"9Tailors","description":"Confidence Suits Me","company":"9Tailors, LLC","address":"132 Lincoln St, 1L, Boston, MA 02111","address_map_url":"https://goo.gl/maps/4vQfW7dXeFH2","email":"hello@9tailors.com","phone":"617-286-6135","hours":{"mon":"11 am - 5 pm","tue":"11 am - 7 pm","wed":"11 am - 7 pm","thu":"11 am - 7 pm","fri":"11 am - 7 pm","sat":"11 am - 5 pm","sun":"by appt only"},"social_urls":{"facebook":"https://www.facebook.com/9tailors","instagram":"https://www.instagram.com/9tailors/","pinterest":"https://www.pinterest.com/9tailors/"}},
+    "featured_content": {"team_paths":["_team/samantha-shih.md","_team/jeff-lahens.md","_team/barbara-santos.md","_team/stephanie-munoz.md","_team/kyle-undag.md","_team/daryn-dupre.md"],"article_paths":["_articles/2019-05-25-promotion-article.md","_articles/2019-06-03-an-event.md"],"award_paths":["_awards/2019-best-custom-suits.md","_awards/bostons-best-tuxedos-2017.md","_awards/best-of-weddings-hall-of-fame.md","_awards/best-of-wedding-2019.md"],"press_paths":["_press/three-cheers-for-the-bride.md","_press/wedding-planner-current-trends.md","_press/retail-mavericks-fashion-ventures-forge-new-path-for-style-beauty.md","_press/well-suited-samantha-shih-finds-her-niche-in-the-leather-district.md"],"review_paths":["_reviews/my-wife-and-i-got-married-about-a-month-ago-and-the-suit-9tailors-made-was-absolutely-amazing.md","_reviews/my-pink-shirt-was-a-big-hit-with-over-5-nice-comments-just-in-my-first-day-wearing-it.md","_reviews/stephanie-was-great-made-my-first-experience-with-custom-tailoring-easy-and-enjoyable.md","_reviews/for-a-first-time-experience-and-a-special-moment-for-mother-of-groom-this-was-beyond-my-expectations.md"],"hero_path":"_heroes/confidence-suits-me.md","collection_paths":["_collections/custom-for-change.md","_collections/suits-as-powerful-as-you.md"]},
+    "article_categories": {"Behind the Seams":{"description":"placeholder"},"Our Clients":{"description":"placeholder"},"Weddings":{"description":"placeholder"},"Style Tips":{"description":"placeholder"},"Educational":{"description":"placeholder"},"Events":{"description":"placeholder"},"Promotions":{"description":"placeholder"},"Mentions":{"description":"placeholder"}},
+    "garment_taxonomies": {"weaves":{"brocade":{"description":"placeholder"},"gabardine":{"description":"placeholder"},"nailhead":{"description":"placeholder"},"sharkskin":{"description":"placeholder"},"tweed":{"description":"placeholder"},"seersucker":{"description":"placeholder"},"herringbone":{"description":"placeholder"},"houndstooth":{"description":"placeholder"}},"patterns":{"solid":{"description":"placeholder"},"striped":{"description":"placeholder"},"pinstriped":{"description":"placeholder"},"windowpane":{"description":"placeholder"},"checked":{"description":"placeholder"},"gingham":{"description":"placeholder"},"plaid":{"description":"placeholder"},"paisley":{"description":"placeholder"},"floral":{"description":"placeholder"}},"seasons":{"any":{"description":"placeholder"},"spring":{"description":"placeholder"},"summer":{"description":"placeholder"},"winter":{"description":"placeholder"},"fall":{"description":"placeholder"}},"materials":{"100% cotton":{"description":"placeholder"},"cotton blend":{"description":"placeholder"},"wool":{"description":"placeholder"},"bamboo":{"description":"placeholder"},"velvet":{"description":"placeholder"},"satin":{"description":"placeholder"},"bemberg":{"description":"placeholder"}},"garments":{"dress shirt":{"description":"placeholder"},"tuxedo shirt":{"description":"placeholder"},"short sleeve shirt":{"description":"placeholder"},"2-piece suit":{"description":"placeholder"},"3-piece suit":{"description":"placeholder"},"suit jacket":{"description":"placeholder"},"suit pants":{"description":"placeholder"},"sportcoat":{"description":"placeholder"},"blazer":{"description":"placeholder"},"vest":{"description":"placeholder"},"2-piece tuxedo":{"description":"placeholder"},"3-piece tuxedo":{"description":"placeholder"},"tuxedo jacket":{"description":"placeholder"},"tuxedo pants":{"description":"placeholder"}},"occasions":{"any":{"description":"placeholder"},"casual":{"description":"placeholder"},"business casual":{"description":"placeholder"},"business":{"description":"placeholder"},"formal":{"description":"placeholder"},"wedding":{"description":"placeholder"},"black tie":{"description":"placeholder"}},"colors":{"black":{"hex_code":"placeholder"},"dark grey":{"hex_code":"placeholder"},"grey":{"hex_code":"placeholder"},"light grey":{"hex_code":"placeholder"},"white":{"hex_code":"placeholder"},"brown":{"hex_code":"placeholder"},"light brown":{"hex_code":"placeholder"},"taupe":{"hex_code":"placeholder"},"khaki":{"hex_code":"placeholder"},"red":{"hex_code":"placeholder"},"maroon":{"hex_code":"placeholder"},"pink":{"hex_code":"placeholder"},"midnight blue":{"hex_code":"placeholder"},"navy blue":{"hex_code":"placeholder"},"royal blue":{"hex_code":"placeholder"},"light blue":{"hex_code":"placeholder"},"green":{"hex_code":"placeholder"},"yellow":{"hex_code":"placeholder"}}}
+  },
+  "collections": {
+    "articles": [
+{
+"path": "_articles/2019-05-25-promotion-article.md", 
+"slug": "promotion-article", 
+"primary_category": "promotions", 
+"reference_path": "_promotions/buy-3-shirts-get-1-free.md", 
+"vendors": null, 
+"content": "", 
+"title": "Promotion Article Foo", 
+"date": 1558756800000, 
+"author_path": "_team/jeff-lahens.md", 
+"image_src": "", 
+"categories": ["Promotions"], 
+"tags": []
+}, 
+{
+"path": "_articles/2019-05-30-promotion-article.md", 
+"slug": "promotion-article", 
+"primary_category": "promotions", 
+"reference_path": "_promotions/buy-3-shirts-get-1-free.md", 
+"vendors": null, 
+"content": "", 
+"title": "Promotion Article", 
+"date": 1559188800000, 
+"author_path": "_team/jeff-lahens.md", 
+"image_src": "", 
+"categories": ["Promotions"], 
+"tags": []
+}, 
+{
+"path": "_articles/2019-06-01-an-event.md", 
+"slug": "an-event", 
+"primary_category": "events", 
+"reference_path": "_events/some-event.md", 
+"vendors": null, 
+"content": "# this is some title\n\nhere is some valuable content", 
+"title": "An Event # article is another test", 
+"date": 1559361600000, 
+"author_path": "_team/daryn-dupre.md", 
+"image_src": "", 
+"categories": ["Events"], 
+"tags": []
+}, 
+{
+"path": "_articles/2019-06-01-this-is-an-article.md", 
+"slug": "this-is-an-article", 
+"primary_category": null, 
+"reference_path": null, 
+"vendors": null, 
+"content": "# This is a header\n\nHere is some text", 
+"title": "This is an article", 
+"date": 1559361600000, 
+"author_path": "_team/barbara-santos.md", 
+"image_src": "", 
+"categories": ["Behind the Seams"], 
+"tags": []
+}, 
+{
+"path": "_articles/2019-06-01-wedding-template.md", 
+"slug": "wedding-template", 
+"primary_category": null, 
+"reference_path": null, 
+"vendors": [{"role":"Photographer","vendor_paths":"_sources/channing-johnson.md"}], 
+"content": "", 
+"title": "Wedding Template", 
+"date": 1559361600000, 
+"author_path": "_team/jeff-lahens.md", 
+"image_src": "", 
+"categories": ["Weddings"], 
+"tags": []
+}, 
+{
+"path": "_articles/2019-06-02-we-won-an-award.md", 
+"slug": "we-won-an-award", 
+"primary_category": "awards", 
+"reference_path": "_awards/2018-best-menswear-weddings.md", 
+"vendors": null, 
+"content": "", 
+"title": "We Won an Award", 
+"date": 1559448000000, 
+"author_path": "_team/jeff-lahens.md", 
+"image_src": "", 
+"categories": ["Mentions"], 
+"tags": []
+}, 
+{
+"path": "_articles/2019-06-03-an-event.md", 
+"slug": "an-event", 
+"primary_category": "events", 
+"reference_path": "_events/some-event.md", 
+"vendors": null, 
+"content": "", 
+"title": "Article about an event", 
+"date": 1559534400000, 
+"author_path": "_team/jeff-lahens.md", 
+"image_src": "", 
+"categories": ["Events"], 
+"tags": []
+}, 
+{
+"path": "_articles/2019-06-04-wedding-template.md", 
+"slug": "wedding-template", 
+"primary_category": null, 
+"reference_path": null, 
+"vendors": [{"role":"Photographer","vendor_paths":"_sources/channing-johnson.md"}], 
+"content": "", 
+"title": "Wedding Template", 
+"date": 1559620800000, 
+"author_path": "_team/jeff-lahens.md", 
+"image_src": "", 
+"categories": ["Weddings"], 
+"tags": []
+}, 
+{
+"path": "_articles/another-press.md", 
+"slug": "another-press", 
+"primary_category": "press", 
+"reference_path": "_press/retail-mavericks-fashion-ventures-forge-new-path-for-style-beauty.md", 
+"vendors": null, 
+"content": "", 
+"title": "Another press", 
+"date": 1559620800000, 
+"author_path": "_team/jeff-lahens.md", 
+"image_src": "", 
+"categories": ["Educational"], 
+"tags": []
+}, 
+{
+"path": "_articles/2019-06-05-we-got-some-press.md", 
+"slug": "we-got-some-press", 
+"primary_category": "press", 
+"reference_path": "_press/suit-up.md", 
+"vendors": null, 
+"content": "", 
+"title": "We got some press", 
+"date": 1559707200000, 
+"author_path": "_team/jeff-lahens.md", 
+"image_src": "", 
+"categories": ["Mentions"], 
+"tags": []
+}
+],
+    "awards": [
+{
+"path": "_awards/best-of-wedding-2012.md", 
+"slug": "best-of-wedding-2012", 
+"title": "Best of Weddings - 2012", 
+"date": 1330578000000, 
+"source_path": "_sources/the-knot.md", 
+"image_src": "/media/logo-the-knot-2012.png", 
+"link_url": "https://www.theknot.com/marketplace/9tailors-boston-ma-449981"
+}, 
+{
+"path": "_awards/best-of-wedding-2013.md", 
+"slug": "best-of-wedding-2013", 
+"title": "Best of Weddings - 2013", 
+"date": 1362114000000, 
+"source_path": "_sources/the-knot.md", 
+"image_src": "/media/logo-the-knot-2013.png", 
+"link_url": "https://www.theknot.com/marketplace/9tailors-boston-ma-449981"
+}, 
+{
+"path": "_awards/best-of-wedding-2014.md", 
+"slug": "best-of-wedding-2014", 
+"title": "Best of Weddings - 2014", 
+"date": 1393650000000, 
+"source_path": "_sources/the-knot.md", 
+"image_src": "/media/logo-the-knot-2014.png", 
+"link_url": "https://www.theknot.com/marketplace/9tailors-boston-ma-449981"
+}, 
+{
+"path": "_awards/bostons-best-tuxedos-2015.md", 
+"slug": "bostons-best-tuxedos-2015", 
+"title": "Boston's Best Tuxedos - 2015", 
+"date": 1425186000000, 
+"source_path": "_sources/the-improper-bostonian.md", 
+"image_src": "/media/logo-bestof-improper-2015.png", 
+"link_url": "https://www.improper.com/bostons-best/2015/weddings/tuxedos/9tailors/"
+}, 
+{
+"path": "_awards/best-of-wedding-2016.md", 
+"slug": "best-of-wedding-2016", 
+"title": "Best of Weddings - 2016", 
+"date": 1456808400000, 
+"source_path": "_sources/the-knot.md", 
+"image_src": "/media/logo-the-knot-2016.png", 
+"link_url": "https://www.theknot.com/marketplace/9tailors-boston-ma-449981"
+}, 
+{
+"path": "_awards/bostons-best-mens-suits-2016.md", 
+"slug": "bostons-best-mens-suits-2016", 
+"title": "Boston's Best Men's Suits - 2016", 
+"date": 1456808400000, 
+"source_path": "_sources/the-improper-bostonian.md", 
+"image_src": "/media/logo-bestof-improper-2016.png", 
+"link_url": "https://www.improper.com/bostons-best/2016/fashion/mens-suits/9tailors-2/"
+}, 
+{
+"path": "_awards/bostons-best-tuxedos-2017.md", 
+"slug": "bostons-best-tuxedos-2017", 
+"title": "Boston's Best Tuxedos - 2017", 
+"date": 1488344400000, 
+"source_path": "_sources/the-improper-bostonian.md", 
+"image_src": "/media/logo-bestof-improper-2017.png", 
+"link_url": "https://www.improper.com/bostons-best/2017/weddings/tuxedos/9tailors-3/"
+}, 
+{
+"path": "_awards/2018-best-menswear-weddings.md", 
+"slug": "2018-best-menswear-weddings", 
+"title": "2018 Best Menswear, Weddings", 
+"date": 1519880400000, 
+"source_path": "_sources/boston-magazine.md", 
+"image_src": "/media/logo-bob-weddings-2018.png", 
+"link_url": "https://www.bostonmagazine.com/best-of-boston/2018/9tailors/"
+}, 
+{
+"path": "_awards/best-of-weddings-hall-of-fame.md", 
+"slug": "best-of-weddings-hall-of-fame", 
+"title": "Best of Weddings - Hall of Fame", 
+"date": 1519880400000, 
+"source_path": "_sources/the-knot.md", 
+"image_src": "/media/logo-the-knot-hof.png", 
+"link_url": "https://www.theknot.com/marketplace/9tailors-boston-ma-449981"
+}, 
+{
+"path": "_awards/best-of-wedding-2019.md", 
+"slug": "best-of-wedding-2019", 
+"title": "Best of Weddings - 2019", 
+"date": 1551416400000, 
+"source_path": "_sources/the-knot.md", 
+"image_src": "/media/logo-the-knot-2019.png", 
+"link_url": "https://www.theknot.com/marketplace/9tailors-boston-ma-449981"
+}, 
+{
+"path": "_awards/2019-best-custom-suits.md", 
+"slug": "2019-best-custom-suits", 
+"title": "2019 Best Custom Suits", 
+"date": 1559361600000, 
+"source_path": "_sources/boston-magazine.md", 
+"image_src": "/media/logo-bob-2019.png", 
+"link_url": "https://www.bostonmagazine.com/best-of-boston-archive/2019/9tailors-2/"
+}
+],
+    "collections": [
+{
+"path": "_collections/suits-as-powerful-as-you.md", 
+"slug": "suits-as-powerful-as-you", 
+"title": "Suits as Powerful as You", 
+"date": 1546318800000, 
+"description": "## You are strong, beautiful and proud\n\nNow you have a place to shop that makes clothes to reflect who you really are. Our clothes are carefully crafted by our master tailors. We partner with some of the best mills in the world, including Vitale Barberis Canonico, Loro Piana and Huddersfield just to name a few. Whether or not you are looking for a suit with a masculine cut, feminine flair or somewhere in between, our style advisors help you to design a garment that is as unique as you for every important occasion in your life.", 
+"outfit_paths": ["_outfits/emma-maroon-gabardine-3-piece-suit.md","_outfits/kaci-blue-2-piece-suit-and-vest.md","_outfits/janelle-taupe-pinstripe-2-piece-suit.md","_outfits/allyson-limited-edition-2-piece-suit.md"], 
+"hero_hero_title": null, 
+"hero_hero_tagline": null, 
+"hero_hero_background_src": null
+}, 
+{
+"path": "_collections/custom-for-change.md", 
+"slug": "custom-for-change", 
+"title": "Custom for Change", 
+"date": 1564632000000, 
+"description": "![](/media/logo-mccourty-x-9tailors.svg)\n\nNoted icons on the field and on the red carpet Devin and Jason McCourty of the New England Patriots have teamed up with 9Tailors on a designer collection. Each detail was meticulously hand-picked by the McCourty twins -- from lapel style to the carefully placed contrast stitch in order to reflect their dedication in finding a cure for Sickle Cell. Proceeds from this collaboration will benefit the **_McCourty Twins Tackle Sickle Cell_** campaign which aims to educate the public, increase blood donations and raise money for those affected by the disease.", 
+"outfit_paths": ["_outfits/the-proposal-navy-tuxedo-satin-pants.md","_outfits/the-liana-suit-2-piece-suit.md","_outfits/londyn-calling-2-piece-suit.md","_outfits/kai-not-khaki-3-piece-suit.md"], 
+"hero_hero_title": null, 
+"hero_hero_tagline": null, 
+"hero_hero_background_src": null
+}
+],
+    "events": [
+{
+"path": "_events/some-event.md", 
+"slug": "some-event", 
+"title": "Some Event", 
+"start_date": 1559858400000, 
+"end_date": 1559869200000, 
+"description": "This is some event", 
+"rsvp_url": "", 
+"image_src": "", 
+"partner_paths": null
+}
+],
+    "heroes": [
+{
+"path": "_heroes/confidence-suits-me.md", 
+"slug": "confidence-suits-me", 
+"title": "Confidence Suits Me", 
+"body": "# Look Your Best to Feel Your Best", 
+"cta": "", 
+"cta_url": "", 
+"content_position": "bottom center", 
+"image_src": "/media/mccourty-jason_blue-tuxedo.jpg", 
+"background_alignment": "top center", 
+"theme": "dark"
+}
+],
+    "lookbooks": [
+{
+"path": "_lookbooks/velvet-smoking-jacket.md", 
+"slug": "velvet-smoking-jacket", 
+"title": "Velvet Smoking Jacket", 
+"date": 1546318800000, 
+"description": "Look smokin' in a velvet smoking jacket", 
+"image_srcs": ["/v1543344661/_DSC8311_cclfft.jpg","/v1541098592/_DSC8305_a8ktzi.jpg"], 
+"garment_taxonomies": [{"garment":"tuxedo jacket","material":"velvet","pattern":"solid","colors":["maroon","black"],"occasions":["formal","wedding"],"seasons":["fall","winter"],"weave":"","price":null},{"garment":"tuxedo pants","material":"wool","pattern":"solid","colors":["black"],"occasions":["formal","wedding","black tie"],"weave":"","seasons":[],"price":null}], 
+"credits": [{"role":"Photographer","source_path":"_sources/channing-johnson.md"}]
+}
+],
+    "outfits": [
+{
+"path": "_outfits/allyson-limited-edition-2-piece-suit.md", 
+"slug": "allyson-limited-edition-2-piece-suit", 
+"title": "Limited Edition 2-Piece Suit", 
+"model_name": "Allyson", 
+"image_srcs": ["/media/suit-midnight-black-allyson.jpg","/media/suit-grey-allyson.jpg","/media/suit-navy-allyson.jpg"], 
+"garments": [{"title":"Black 2-Piece Suit","material_reference":"Super 100s Wool (#508)","price":499,"garment":"2-piece suit","material":"wool","pattern":"solid","colors":["black"],"occasions":["black tie","wedding","formal","business"],"seasons":["any"],"weave":""},{"title":"Grey 2-Piece Suit","material_reference":"Super 100s Wool (#11)","price":499,"garment":"2-piece suit","material":"wool","pattern":"solid","colors":["grey"],"occasions":["wedding","formal","business"],"seasons":["any"],"weave":""},{"title":"Navy 2-Piece Suit","material_reference":"Super 100s Wool (#45)","garment":"2-piece suit","price":499,"material":"wool","pattern":"solid","colors":["navy blue"],"occasions":["wedding","formal","business"],"seasons":["any"],"weave":""}]
+}, 
+{
+"path": "_outfits/emma-maroon-gabardine-3-piece-suit.md", 
+"slug": "emma-maroon-gabardine-3-piece-suit", 
+"title": "Maroon Gabardine 3-Piece Suit", 
+"model_name": "Emma", 
+"image_srcs": ["/media/suit-maroon-emma1.jpg","/media/suit-maroon-emma2.jpg","/media/suit-maroon-emma3.jpg"], 
+"garments": [{"title":"Maroon Gaberdine 3-Piece Suit","material_reference":"MK14802A","garment":"3-piece suit","price":880,"material":"wool","weave":"gabardine","pattern":"solid","colors":["maroon"],"occasions":["wedding","business"],"seasons":["winter","fall"]},{"title":"White Cotton/Poly Shirt","material_reference":"MH15694A","price":89,"garment":"dress shirt","material":"cotton blend","pattern":"solid","colors":["white"],"occasions":["any"],"seasons":["any"],"weave":""}]
+}, 
+{
+"path": "_outfits/janelle-taupe-pinstripe-2-piece-suit.md", 
+"slug": "janelle-taupe-pinstripe-2-piece-suit", 
+"title": "Taupe Pinstripe 2-Piece Suit", 
+"model_name": "Janelle", 
+"image_srcs": ["/media/suit-brown-janelle1.jpg","/media/suit-brown-janelle2.jpg","/media/suit-brown-janelle3.jpg","/media/suit-brown-janelle4.jpg"], 
+"garments": [{"title":"Taupe Pinstripe 2-Piece Suit","material_reference":"MK1102A","garment":"2-piece suit","price":625,"material":"wool","pattern":"solid","weave":"","colors":["taupe"],"occasions":["business"],"seasons":["summer","fall","spring"]},{"title":"Striped Cotton/Poly Shirt","material_reference":"MH15485A","garment":"dress shirt","price":89,"material":"cotton blend","pattern":"striped","colors":["white","black"],"occasions":["any"],"seasons":["any"],"weave":""}]
+}, 
+{
+"path": "_outfits/kaci-blue-2-piece-suit-and-vest.md", 
+"slug": "kaci-blue-2-piece-suit-and-vest", 
+"title": "Blue 2-Piece Suit and Vest", 
+"model_name": "Kaci", 
+"image_srcs": ["/media/suit-blue-kaci1.jpg","/media/suit-blue-kaci2.jpg","/media/suit-blue-kaci3.jpg"], 
+"garments": [{"title":"Blue 2-Piece Suit","material_reference":"MK33074C","price":"1300.00","garment":"3-piece suit","material":"wool","pattern":"solid","colors":["light blue"],"occasions":["business casual","business","wedding"],"seasons":["any"],"weave":""},{"title":"Blue Paisley Vest","material_reference":"F2017498","garment":"vest","price":225,"material":"bemberg","pattern":"paisley","colors":["light blue"],"occasions":["casual","business","formal","wedding"],"seasons":["any"],"weave":""},{"title":"White 100% Cotton Shirt","material_reference":"MH48667D","garment":"dress shirt","price":159,"material":"100% cotton","colors":["white"],"occasions":["any"],"seasons":["any"],"weave":"","pattern":""}]
+}, 
+{
+"path": "_outfits/kai-not-khaki-3-piece-suit.md", 
+"slug": "kai-not-khaki-3-piece-suit", 
+"title": "Kai Not Khaki - 3-Piece Suit", 
+"model_name": "Jason", 
+"image_srcs": ["/media/mccourty-jason_khaki-suit3.jpg","/media/mccourty-jason_khaki-suit1.jpg","/media/mccourty-jason_khaki-suit2.jpg"], 
+"garments": [{"title":"Tan Nailhead 3-Piece Suit","material_reference":"MK25550B","price":"01200","garment":"3-piece suit","material":"wool","weave":"nailhead","pattern":"solid","colors":["khaki"],"occasions":["wedding","formal","business"],"seasons":["fall","summer","spring"]}]
+}, 
+{
+"path": "_outfits/londyn-calling-2-piece-suit.md", 
+"slug": "londyn-calling-2-piece-suit", 
+"title": "Londyn Calling - 2-Piece Suit", 
+"model_name": "Devin", 
+"image_srcs": ["/media/mccourty-devin_blue-suit1.jpg","/media/mccourty-devin_blue-suit2.jpg"], 
+"garments": [{"title":"Navy Sharkskin 2-Piece Suit","material_reference":"MK33075C","price":"01100","garment":"2-piece suit","material":"wool","weave":"sharkskin","pattern":"solid","colors":["navy blue"],"occasions":["wedding","formal","business"],"seasons":["fall","winter","spring"]}]
+}, 
+{
+"path": "_outfits/the-flowers-for-michelle-shirt-the-miami-shirt.md", 
+"slug": "the-flowers-for-michelle-shirt-the-miami-shirt", 
+"title": "The Flowers for Melissa Shirt & The Miami Shirt", 
+"model_name": "Jason & Devin", 
+"image_srcs": ["/media/the flowers for melissa shirt (2).png"], 
+"garments": [{"material_reference":"PT-10941-D (Jason) PT-10933D (Devin)","garment":"dress shirt","title":"ivory, tan flower pattern shirt & navy, gold pattern texture shirt","price":175,"material":"","weave":"","pattern":"","colors":[],"occasions":[],"seasons":[]}]
+}, 
+{
+"path": "_outfits/the-kaiden-shirt.md", 
+"slug": "the-kaiden-shirt", 
+"title": "The Kaiden Shirt", 
+"model_name": "Jason", 
+"image_srcs": ["/media/936621 2.jpg"], 
+"garments": [{"material_reference":"PT11321E","garment":"dress shirt","title":"cool grey linen shirt","price":"175.00","material":"","weave":"","pattern":"","colors":[],"occasions":[],"seasons":[]}]
+}, 
+{
+"path": "_outfits/the-liana-suit-2-piece-suit.md", 
+"slug": "the-liana-suit-2-piece-suit", 
+"title": "The Liana Suit - 2-Piece Suit", 
+"model_name": "Jason", 
+"image_srcs": ["/media/mccourty-jason_grey-suit1.jpg","/media/mccourty-jason_grey-suit2.jpg"], 
+"garments": [{"title":"Floral 100% Cotton Shirt","material_reference":"PT-10941-D","price":175,"garment":"dress shirt","material":"100% cotton","pattern":"floral","colors":["white","light brown","brown"],"occasions":["casual","business casual"],"seasons":["summer","fall","spring"],"weave":""},{"material_reference":"MK155581B","price":1100,"garment":"2-piece suit","title":"Grey Sharkskin 2-Piece Suit","material":"wool","weave":"sharkskin","pattern":"solid","colors":["grey"],"occasions":["wedding","formal","business"],"seasons":["any"]}]
+}, 
+{
+"path": "_outfits/the-michelle-vacation-shirt.md", 
+"slug": "the-michelle-vacation-shirt", 
+"title": "The Michelle Vacation Shirt", 
+"model_name": "Devin", 
+"image_srcs": ["/media/936775.jpg"], 
+"garments": [{"title":"Vibrant orange, linen shirt","material_reference":"PT11320E","garment":"dress shirt","price":"175.00","material":"","weave":"","pattern":"","colors":[],"occasions":[],"seasons":[]}]
+}, 
+{
+"path": "_outfits/the-proposal-navy-tuxedo-satin-pants.md", 
+"slug": "the-proposal-navy-tuxedo-satin-pants", 
+"title": "The Proposal - Navy Tuxedo & Satin Pants", 
+"model_name": "Jason", 
+"image_srcs": ["/media/mccourty-jason_blue-tuxedo.jpg"], 
+"garments": [{"title":"Navy Wool Tuxedo Jacket","material_reference":"16-330017-A","price":0,"garment":"tuxedo jacket","material":"wool","weave":"brocade","pattern":"floral","colors":["midnight blue"],"occasions":["wedding","formal"],"seasons":["winter","fall"]},{"title":"Black Satin Pants","material_reference":"25-330006-A","garment":"tuxedo pants","price":"01500","material":"satin","pattern":"solid","colors":["black"],"occasions":["wedding","formal"],"seasons":["fall","winter"],"weave":""}]
+}
+],
+    "press": [
+{
+"path": "_press/retail-mavericks-fashion-ventures-forge-new-path-for-style-beauty.md", 
+"slug": "retail-mavericks-fashion-ventures-forge-new-path-for-style-beauty", 
+"title": "Retail mavericks: Fashion ventures forge new path for style, beauty", 
+"date": 1223438400000, 
+"source_path": "_sources/boston-herald.md", 
+"link_url": "https://www.bostonherald.com/2008/10/08/retail-mavericks-fashion-ventures-forge-new-path-for-style-beauty/", 
+"excerpt": "A creative entrepreneur doesn’t let a recession get in the way of her dreams. We caught up with three local visionaries who are bucking the economic downturn with innovative ventures."
+}, 
+{
+"path": "_press/asian-female-entrepreneurs-inspire-guests-at-fashion-panel.md", 
+"slug": "asian-female-entrepreneurs-inspire-guests-at-fashion-panel", 
+"title": "Asian female entrepreneurs inspire guests at fashion panel", 
+"date": 1458878400000, 
+"source_path": "_sources/sampan.md", 
+"link_url": "https://sampan.org/2016/03/asian-female-entrepreneurs-inspire-guests-at-fashion-panel/", 
+"excerpt": "9tailors, a men’s custom premium clothing store in Boston’s Chinatown, housed a different clientele on the evening of March 10. Asian female entrepreneurs and guests gathered to attend a networking event with a panel discussion on fashion retail, presented by the Asian Entrepreneurship Foundation. "
+}, 
+{
+"path": "_press/wedding-planner-current-trends.md", 
+"slug": "wedding-planner-current-trends", 
+"title": "Wedding Planner: Current Trends", 
+"date": 1526616000000, 
+"source_path": "_sources/wcvb-chronicle.md", 
+"link_url": "https://www.wcvb.com/article/wedding-planner-current-trends/20749852", 
+"excerpt": "From rooftop gardens to blue dresses, Shayna Seymour learns all about the latest wedding trends."
+}, 
+{
+"path": "_press/three-cheers-for-the-bride.md", 
+"slug": "three-cheers-for-the-bride", 
+"title": "Three Cheers for the Bride", 
+"date": 1540526400000, 
+"source_path": "_sources/the-improper-bostonian.md", 
+"link_url": "https://www.improper.com/life-style/three-cheers-for-the-bride/", 
+"excerpt": "At 9Tailors, brides can expect the same meticulous approach to bespoke suiting that grooms have come to love. As owner Samantha Shih puts it, \"A good tailor should have the creativity to solve your fashion problems, but be pragmatic enough to know what's possible.\""
+}, 
+{
+"path": "_press/well-suited-samantha-shih-finds-her-niche-in-the-leather-district.md", 
+"slug": "well-suited-samantha-shih-finds-her-niche-in-the-leather-district", 
+"title": "Well-suited: Samantha Shih finds her niche in the Leather District", 
+"date": 1544072400000, 
+"source_path": "_sources/boston-business-journal.md", 
+"link_url": "https://www.bizjournals.com/boston/news/2018/12/06/well-suited-samantha-shih-finds-her-niche-in-the.html", 
+"excerpt": "Her business, 9Tailors LLC, has morphed into a bespoke tailor, with patterns measured meticulously and clothes made from scratch."
+}
+],
+    "products": [
+{
+"path": "_products/jackets.md", 
+"slug": "jackets", 
+"title": "Blazers", 
+"description": "A well-tailored blazer always makes the style cut. So versatile is this garment that you can mix and match with virtually everything in your closet, even your best pair of well-worn jeans. Select from our wide array of solids or plaids. Or, if you so choose, try a blazer in our bamboo or linen instead of wool. Each detail will be meticulously hand-picked by you, so you can design the blazer of your dreams. ", 
+"starting_price": 475, 
+"image_src": "/media/jacket-pink-michemas.jpg", 
+"image_srcs": ["/garments/Mens_Spring_Screen-117_wrhkih.jpg","/garments/53285772_488075555061933_2157452596905400723_n_kf8x8d.jpg","/garments/20141024-9-tailors-0432_sgm8e3.jpg","/garments/20141024-9-tailors-0265_czuvby.jpg"]
+}, 
+{
+"path": "_products/shirts.md", 
+"slug": "shirts", 
+"title": "Shirts", 
+"description": "The 9Tailors custom shirting process begins with finding the right fabric. All of our 2-ply cotton fabrics exceed 100 thread count, giving each shirt a smooth and lustrous finish. From stripes to solids, neutrals to neons, we offer a multitude of choices. We also offer a wrinkle-resistant, poly-cotton blend options for those who are on-the-go. ", 
+"starting_price": 89, 
+"image_src": "/media/shirt-red-gingham-tee.jpg", 
+"image_srcs": ["/garments/women_shirt_qrmznb.jpg","/garments/men_shirt1_ix43cp.jpg","/garments/_MG_2281-100416.jpg","/garments/9TailorsFallShoot-033.jpg","/garments/20151027-twellman-0548.jpg"]
+}, 
+{
+"path": "_products/suits.md", 
+"slug": "suits", 
+"title": "Suits", 
+"description": "Our style advisors take over 25 points on the body, discuss your fit preferences and help you select each design detail. We are proud to offer cloths from some of the world's most renowned mills, including Loro Piana, Vitale Barberis Canonico and Huddersfield. This attention to detail ensures that we are building you a suit that you'll love and wear for every day occasions, special occasions and beyond.   ", 
+"starting_price": 625, 
+"image_src": "/media/suit_bar_kevin.jpg", 
+"image_srcs": ["/garments/kaci1_va2yuu.jpg","/garments/janelle1_vnegty.jpg","/garments/group1_wsr7ug.jpg","/garments/emma1_i6jywx.jpg"]
+}, 
+{
+"path": "_products/tuxedos.md", 
+"slug": "tuxedos", 
+"title": "Tuxedos", 
+"description": "You might dress down during the weekday. But, it's time to amp up your formal attire  with a sophisticated, red-carpet ready tuxedo. Our black tie options are anything but traditional. While we offer tuxes in conventional hues, clients may also opt for luxe velvets and rich brocades. We promise you'll look better than Bond. ", 
+"starting_price": 725, 
+"image_src": "/media/tuxedo-midnight-kevin4.jpg", 
+"image_srcs": ["/weddings/unnamed_16_qcvitm.jpg","/weddings/L_T261_2_elt7ug.jpg","/garments/_DSC8131_yp9kzu.jpg"]
+}, 
+{
+"path": "_products/vests.md", 
+"slug": "vests", 
+"title": "Vests", 
+"description": "Whether you plan to wear it with your two-piece suit or alone with a pair of slacks, a vest gives you an opportunity to up your style game. Our options come in a variety of textures including herringbone, basket weave or tweed. We think it's a worthwhile in-vest-ment. ", 
+"starting_price": 225, 
+"image_src": "/media/vest-light-blue-kevin.jpg", 
+"image_srcs": ["/team/9-Tailors-Nicole-Chan-Photography-Boston-Portraits-Headshots016_lmhwq9.jpg"]
+}
+],
+    "promotions": [
+{
+"path": "_promotions/buy-3-shirts-get-1-free.md", 
+"slug": "buy-3-shirts-get-1-free", 
+"title": "Buy 3 Shirts Get 1 Free", 
+"start_date": 1559361600000, 
+"end_date": 1561867200000, 
+"image_src": "", 
+"description": "Buy 3 shirts get one free. Buy 3 shirts get one free. Buy 3 shirts get one free. Buy 3 shirts get one free. Buy 3 shirts get one free. "
+}
+],
+    "reviews": [
+{
+"path": "_reviews/i-have-ordered-from-9tailors-a-few-times-now-and-each-time-both-the-product-and-the-service-gets-better-and-better.md", 
+"slug": "i-have-ordered-from-9tailors-a-few-times-now-and-each-time-both-the-product-and-the-service-gets-better-and-better", 
+"review": "I have ordered from 9Tailors a few times now and each time both the product and the service gets better and better. We ordered 5 shirts, all of which arrived in a timely manner and exactly as ordered. They fit great and we couldn't be happier. Since then, I've continued to spread the word regarding the shirts. It's an incredible deal and the fit is second-to-none. I'm already looking forward to my next order.", 
+"title": "I have ordered from 9Tailors a few times now and each time both the product and the service gets better and better.", 
+"name": "Corey Desjardin", 
+"date": 1235883600000
+}, 
+{
+"path": "_reviews/i-just-would-like-to-say-i-was-quite-impressed-by-the-9tailors-s-operation.md", 
+"slug": "i-just-would-like-to-say-i-was-quite-impressed-by-the-9tailors-s-operation", 
+"review": "I just would like to say I was quite impressed by the 9tailors's operation. From the beginning with the customized measurements to the numerous options on the website which was very professionally done; I felt as though I was getting a worthy product and I did. The shirt was great it fit well and looked fantastic which I figured since I received many comments from the ladies.", 
+"title": "I just would like to say I was quite impressed by the 9tailors's operation.", 
+"name": "Jarrod Desjardin", 
+"date": 1246420800000
+}, 
+{
+"path": "_reviews/my-pink-shirt-was-a-big-hit-with-over-5-nice-comments-just-in-my-first-day-wearing-it.md", 
+"slug": "my-pink-shirt-was-a-big-hit-with-over-5-nice-comments-just-in-my-first-day-wearing-it", 
+"review": "My pink shirt was a big hit, with over 5 nice comments just in my first day wearing it. I wouldn't usually try to pull off such a color, but I knew with the quality of 9Tailors that it'd all be okay. Thanks!", 
+"title": "My pink shirt was a big hit, with over 5 nice comments just in my first day wearing it.", 
+"name": "James Harrison", 
+"date": 1246420800000
+}, 
+{
+"path": "_reviews/the-shirt-i-just-ordered-fit-like-a-glove.md", 
+"slug": "the-shirt-i-just-ordered-fit-like-a-glove", 
+"review": "The shirt I just ordered fit like a glove. Probably the best fitting shirt I've ever gotten! Buy with confidence (over and over and over)! I can't wait until my next order.", 
+"title": "The shirt I just ordered fit like a glove. ", 
+"name": "Chris Tam", 
+"date": 1246420800000
+}, 
+{
+"path": "_reviews/i-love-my-9tailors-shirts.md", 
+"slug": "i-love-my-9tailors-shirts", 
+"review": "I love my 9Tailors shirts! It's nice to have something made exactly for me instead of off-the-rack shirts. I can finally get sleeves that fit me right! It's a cool feeling to have a completely unique shirt.", 
+"title": "I love my 9Tailors shirts!", 
+"name": "Doug Rett", 
+"date": 1249099200000
+}, 
+{
+"path": "_reviews/for-a-first-time-experience-and-a-special-moment-for-mother-of-groom-this-was-beyond-my-expectations.md", 
+"slug": "for-a-first-time-experience-and-a-special-moment-for-mother-of-groom-this-was-beyond-my-expectations", 
+"review": "For a first time experience and a special moment for Mother of Groom, this was beyond my expectations, as close to perfect as it could be. I will treasure this memory always.", 
+"title": "For a first time experience and a special moment for Mother of Groom, this was beyond my expectations", 
+"name": "Paula Isaac", 
+"date": 1561953600000
+}, 
+{
+"path": "_reviews/my-wife-and-i-got-married-about-a-month-ago-and-the-suit-9tailors-made-was-absolutely-amazing.md", 
+"slug": "my-wife-and-i-got-married-about-a-month-ago-and-the-suit-9tailors-made-was-absolutely-amazing", 
+"review": "My wife and I got married about a month ago and the suit 9tailors made was absolutely amazing!  Quite a few people mentioned how good it looks and how well it fits, looking at pictures I agree :)  Thank you so much for helping me look my best at my wedding, this suit has definitely made me realize what suits are supposed to be like and I can't wait for an excuse to get another!", 
+"title": "My wife and I got married about a month ago and the suit 9tailors made was absolutely amazing!", 
+"name": "Patrick Jagielski", 
+"date": 1561953600000
+}, 
+{
+"path": "_reviews/stephanie-was-great-made-my-first-experience-with-custom-tailoring-easy-and-enjoyable.md", 
+"slug": "stephanie-was-great-made-my-first-experience-with-custom-tailoring-easy-and-enjoyable", 
+"review": "Stephanie was great. Made my first experience with custom tailoring easy and enjoyable. My stress level definitely faded to nothing as she walked me through the process. I will definitely be back for something a little less conservative.", 
+"title": "Stephanie was great. Made my first experience with custom tailoring easy and enjoyable. ", 
+"name": "Stephen Deane", 
+"date": 1561953600000
+}, 
+{
+"path": "_reviews/we-really-enjoyed-working-with-stephanie.md", 
+"slug": "we-really-enjoyed-working-with-stephanie", 
+"review": "We really enjoyed working with Stephanie. I felt extremely comfortable, and less self conscious about myself. I will definitely spread the word!!", 
+"title": "We really enjoyed working with Stephanie. ", 
+"name": "Shawnette Stephenson", 
+"date": 1561953600000
+}
+],
+    "sources": [
+{
+"path": "_sources/boston-business-journal.md", 
+"slug": "boston-business-journal", 
+"title": "Boston Business Journal", 
+"link_url": "https://www.bizjournals.com/boston/", 
+"image_src": "/media/logo-boston-business-journal.jpg"
+}, 
+{
+"path": "_sources/boston-herald.md", 
+"slug": "boston-herald", 
+"title": "Boston Herald", 
+"link_url": "https://www.bostonherald.com", 
+"image_src": "/media/logo-boston-herald.svg"
+}, 
+{
+"path": "_sources/boston-magazine.md", 
+"slug": "boston-magazine", 
+"title": "Boston Magazine", 
+"link_url": "https://www.bostonmagazine.com/", 
+"image_src": "/media/logo-boston-magazine.png"
+}, 
+{
+"path": "_sources/channing-johnson.md", 
+"slug": "channing-johnson", 
+"title": "Channing Johnson", 
+"link_url": "http://www.channingjohnson.com/", 
+"image_src": "/media/logo-channing-johnson.jpg"
+}, 
+{
+"path": "_sources/sampan.md", 
+"slug": "sampan", 
+"title": "Sampan", 
+"link_url": "https://sampan.org", 
+"image_src": "/media/logo-sampan.png"
+}, 
+{
+"path": "_sources/the-improper-bostonian.md", 
+"slug": "the-improper-bostonian", 
+"title": "The Improper Bostonian", 
+"link_url": "https://www.improper.com/", 
+"image_src": "/media/logo-improper-bostonian.png"
+}, 
+{
+"path": "_sources/the-knot.md", 
+"slug": "the-knot", 
+"title": "The Knot", 
+"link_url": "https://www.theknot.com/", 
+"image_src": "/media/logo-the-knot.png"
+}, 
+{
+"path": "_sources/wcvb-chronicle.md", 
+"slug": "wcvb-chronicle", 
+"title": "WCVB - Chronicle", 
+"link_url": "https://www.wcvb.com/chronicle", 
+"image_src": "/media/logo-chronicle.png"
+}
+],
+    "team": [
+{
+"path": "_team/jeff-lahens.md", 
+"slug": "jeff-lahens", 
+"title": "Jeff Lahens", 
+"job_title": "Chief Marketing Officer", 
+"blurb": "", 
+"image_src": "/media/headshot-jeff.jpg"
+}, 
+{
+"path": "_team/kyle-undag.md", 
+"slug": "kyle-undag", 
+"title": "Kyle Undag", 
+"job_title": "PR & Showroom Coordinator ", 
+"blurb": "", 
+"image_src": "/media/headshot-kyle.jpg"
+}, 
+{
+"path": "_team/barbara-santos.md", 
+"slug": "barbara-santos", 
+"title": "Barbara Santos", 
+"job_title": "Operations Manager", 
+"blurb": "", 
+"image_src": "/media/headshot-barbara.jpg"
+}, 
+{
+"path": "_team/daryn-dupre.md", 
+"slug": "daryn-dupre", 
+"title": "Daryn Dupre", 
+"job_title": "Style Advisor", 
+"blurb": "", 
+"image_src": "/media/headshot-daryn.jpg"
+}, 
+{
+"path": "_team/stephanie-munoz.md", 
+"slug": "stephanie-munoz", 
+"title": "Stephanie Munoz", 
+"job_title": "Creative Director", 
+"blurb": "", 
+"image_src": "/media/headshot-stephanie.jpg"
+}, 
+{
+"path": "_team/samantha-shih.md", 
+"slug": "samantha-shih", 
+"title": "Samantha Shih", 
+"job_title": "Owner/Founder", 
+"blurb": "", 
+"image_src": "/media/headshot-sam.jpg"
+}
+]
+  }
+}
